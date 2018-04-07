@@ -1,5 +1,5 @@
 const tape = require('tape');
-const Trie = require('./index');
+const Trie = require('./trie');
 
 const trie = new Trie();
 
