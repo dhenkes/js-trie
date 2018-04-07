@@ -1,0 +1,25 @@
+{
+  "name": "js-trie",
+  "version": "1.0.0",
+  "description": "A simple javascript trie implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhenkes/js-trie.git"
+  },
+  "keywords": [
+    "trie"
+  ],
+  "author": "Dominique Henkes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dhenkes/js-trie/issues"
+  },
+  "homepage": "https://github.com/dhenkes/js-trie#readme",
+  "devDependencies": {
+    "tape": "^4.9.0"
+  }
+}
